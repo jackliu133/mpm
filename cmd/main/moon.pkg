@@ -1,0 +1,7 @@
+// import {
+//   "jackliu133/mpm" @lib,
+// }
+
+options(
+  "is-main": true,
+)
