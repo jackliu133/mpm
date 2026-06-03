@@ -1,4 +1,3 @@
 options(
-  // "is-main": true,
-  "preferred-target": "js"
+
 )

@@ -25,3 +25,6 @@ prosemirror-transform   事务的父类
 
 达到prosemirror demo 效果
 https://github.com/ProseMirror/prosemirror/tree/master/demo
+
+## 构建
+moon build --target js

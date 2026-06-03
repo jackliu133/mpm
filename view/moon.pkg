@@ -1,4 +1,7 @@
 options(
-  // "is-main": true,
-  "preferred-target": "js"
+  "is-main":true,
+  "targets":{
+    "index.mbt":"js",
+    "dom.mbt":"js"
+  },
 )
