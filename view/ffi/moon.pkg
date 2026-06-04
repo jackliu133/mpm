@@ -1,0 +1,13 @@
+options(
+  "is-main":false,
+  "targets":{
+    "index.mbt":"js"
+  },
+  "link": {
+    "js": {
+      "exports": [ "find_element_by_id" ]
+    }
+  }
+
+)
+

@@ -1,0 +1,4 @@
+{
+    "moonbit.trace.server": "verbose",
+    "moonbit.inlayHints.forFunctionParameterNames": true
+}

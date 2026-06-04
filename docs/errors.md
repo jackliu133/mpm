@@ -6,3 +6,12 @@ options(
     "dom.mbt":"js"
   },
 )
+2. lsp 支持问题
+> 情况一：代码存在 bug lsp 跳转失效
+> 情况一：target js 但是未在 moon.mod 配置  ， 
+```moon.mod 
+preferred_target = "js"
+
+supported_targets = "js+native"
+```
+extern “js” fn xxx lsp 跳转失效

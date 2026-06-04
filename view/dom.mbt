@@ -1,7 +1,7 @@
-pub extern "js" fn test_js_log() -> Unit =
-  #| () => console.log("import ok")
+// pub extern "js" fn test_js_log() -> Unit =
+//   #| () => console.log("import ok")
 
 
-fn main {
-  test_js_log()
-}
+// fn main {
+//   test_js_log()
+// }

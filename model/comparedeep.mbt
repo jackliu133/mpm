@@ -5,6 +5,6 @@
 /// Deep-compare two values for structural equality.
 /// In MoonBit, the `==` operator performs deep structural comparison
 /// for types that implement `Eq`, so this function simply delegates to `==`.
-pub fn compare_deep[V : Eq](a : V, b : V) -> Bool {
-  a == b
-}
+// pub fn compare_deep[V : Eq](a : V, b : V) -> Bool {
+//   a == b
+// }

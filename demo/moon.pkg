@@ -1,0 +1,11 @@
+import {
+  "jackliu133/mpm/view",
+   "jackliu133/mpm/view/ffi",
+} 
+
+options(
+  "is-main":true,
+  // "targets":{
+  //   "demo.mbt":"js"
+  // },
+)
