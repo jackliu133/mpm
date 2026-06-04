@@ -1,3 +1,10 @@
 options(
-
+  "is-main":false,
+  "targets":{
+    "index.mbt":"js",
+    "plugin.mbt":"js",
+    "selection.mbt":"js",
+    "state.mbt":"js",
+    "transaction.mbt":"js"
+  },
 )

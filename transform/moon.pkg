@@ -1,3 +1,15 @@
 options(
-  
+  "is-main":false,
+  "targets":{
+    "attr_step.mbt":"js",
+    "index.mbt":"js",
+    "map.mbt":"js",
+    "mark.mbt":"js",
+    "mark_step.mbt":"js",
+    "replace.mbt":"js",
+    "replace_step.mbt":"js",
+    "step.mbt":"js",
+    "structure.mbt":"js",
+    "transform.mbt":"js"
+  },
 )

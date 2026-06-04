@@ -1,7 +1,17 @@
 options(
-  "is-main":true,
+  "is-main":false,
   "targets":{
+    "browser.mbt":"js",
+    "capturekeys.mbt":"js",
+    "clipboard.mbt":"js",
+    "decoration.mbt":"js",
+    "dom.mbt":"js",
+    "domchange.mbt":"js",
+    "domcoords.mbt":"js",
+    "domobserver.mbt":"js",
     "index.mbt":"js",
-    "dom.mbt":"js"
+    "input.mbt":"js",
+    "selection.mbt":"js",
+    "viewdesc.mbt":"js"
   },
 )

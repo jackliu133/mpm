@@ -1,3 +1,18 @@
 options(
-
+  "is-main":false,
+  "targets":{
+    "comparedeep.mbt":"js",
+    "content.mbt":"js",
+    "diff.mbt":"js",
+    "dom.mbt":"js",
+    "fragment.mbt":"js",
+    "from_dom.mbt":"js",
+    "index.mbt":"js",
+    "mark.mbt":"js",
+    "node.mbt":"js",
+    "replace.mbt":"js",
+    "resolvedpos.mbt":"js",
+    "schema.mbt":"js",
+    "to_dom.mbt":"js"
+  },
 )
